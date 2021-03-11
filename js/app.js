@@ -2,9 +2,9 @@
 
 (function() {
   const pictures = [
-	"cute"
-	"practice"
-	"realism practice"
+	"cute",
+	"practice",
+	"realism practice",
 	"sunset"
   ];
 
